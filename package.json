@@ -14,6 +14,7 @@
     "project": "./tsconfig.json"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:staged": "jest"
   }
 }
